@@ -1,0 +1,7 @@
+{
+    "name": "SQL language",
+    "version": "0.0.1",
+    "authors": ["Johan Brook <webmaster@johan.im>"],
+    "description": "SQL language for Zed.",
+    "repository": "https://github.com/johanbrook/zed-sql"
+}
